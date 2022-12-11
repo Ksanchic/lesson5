@@ -1,0 +1,15 @@
+/Users/krr/Desktop/oks/lesson5/tasknew/bin/Debug/net7.0/tasknew
+/Users/krr/Desktop/oks/lesson5/tasknew/bin/Debug/net7.0/tasknew.deps.json
+/Users/krr/Desktop/oks/lesson5/tasknew/bin/Debug/net7.0/tasknew.runtimeconfig.json
+/Users/krr/Desktop/oks/lesson5/tasknew/bin/Debug/net7.0/tasknew.dll
+/Users/krr/Desktop/oks/lesson5/tasknew/bin/Debug/net7.0/tasknew.pdb
+/Users/krr/Desktop/oks/lesson5/tasknew/obj/Debug/net7.0/tasknew.csproj.AssemblyReference.cache
+/Users/krr/Desktop/oks/lesson5/tasknew/obj/Debug/net7.0/tasknew.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krr/Desktop/oks/lesson5/tasknew/obj/Debug/net7.0/tasknew.AssemblyInfoInputs.cache
+/Users/krr/Desktop/oks/lesson5/tasknew/obj/Debug/net7.0/tasknew.AssemblyInfo.cs
+/Users/krr/Desktop/oks/lesson5/tasknew/obj/Debug/net7.0/tasknew.csproj.CoreCompileInputs.cache
+/Users/krr/Desktop/oks/lesson5/tasknew/obj/Debug/net7.0/tasknew.dll
+/Users/krr/Desktop/oks/lesson5/tasknew/obj/Debug/net7.0/refint/tasknew.dll
+/Users/krr/Desktop/oks/lesson5/tasknew/obj/Debug/net7.0/tasknew.pdb
+/Users/krr/Desktop/oks/lesson5/tasknew/obj/Debug/net7.0/tasknew.genruntimeconfig.cache
+/Users/krr/Desktop/oks/lesson5/tasknew/obj/Debug/net7.0/ref/tasknew.dll
